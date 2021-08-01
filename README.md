@@ -21,6 +21,3 @@ https://www.notion.so/iOS-Swift-starter-yagom-7240fbd2f7f2491e99b04e8194eb5bba
 
 - Swift details
 https://www.notion.so/iOS-Swift-syntax-yagom-62a289d8b8184c648451f3901bd631d4
-
-- CS basics (CS50)
-https://www.notion.so/Harvard-CS50-fdf8ca7f00af4ee3948b99c5042fc44c
